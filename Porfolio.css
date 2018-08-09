@@ -1,1 +1,13 @@
-.css Place Holder
+ h1 {
+       
+    background-color: black;
+    color: green;
+    }
+.center{
+        
+    text-align: center;
+}
+.right{
+    
+    text-align: right;
+}
